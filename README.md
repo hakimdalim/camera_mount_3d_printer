@@ -36,7 +36,6 @@ This repository provides mechanical designs, CAD files, and implementation docum
 | Camera Model | Dimensions (L×W×H mm) | Mount Compatibility | Validation Status |
 |--------------|----------------------|-------------------|------------------|
 | FLIR FFY-U3-50-R1 | 27×27×22.6 | Frame/Retractable | Tested |
-|--------------|----------------------|-------------------|------------------|
 
 ## Mounting Solutions
 
